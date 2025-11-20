@@ -1,5 +1,7 @@
 # Customer_Shopping_Behavior_Analysis
 A retail company aims to analyze customer shopping behavior to boost sales, satisfaction, and loyalty. By studying changes in demographics, product categories, sales channels, discounts, reviews, seasons, and payment methods, the company seeks to identify key factors influencing purchase decisions and repeat buying.
+
+
 👨🏻‍💻Customer Behavior Data Analyst Portfolio Project
 This project represents a complete, industry standard, end-to-end data analytics workflow, designed to mirror the real responsibilities of professional analysts in modern business environments. The project encompasses all critical stages of data analysis, from data preparation and modeling to insight generation, visualization, and reporting.
 
